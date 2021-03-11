@@ -284,61 +284,61 @@
 
   "bags": [
     {
-    "name": "Handbags"
+    "name": "Handbags",
     "image": "https://m.media-amazon.com/images/I/91v7JXEWUhL._AC_UL480_FMwebp_QL65_.jpg",
     "price": "50$"
     },
     
     {
-    "name": "Handbags"
+    "name": "Handbags",
     "image": "https://m.media-amazon.com/images/I/610dEHguF3L._AC_UL480_FMwebp_QL65_.jpg",
     "price": "100$"
     },
     
     {
-    "name": "Handbags"
+    "name": "Handbags",
     "image": "https://m.media-amazon.com/images/I/61EW4qTZoGL._AC_UL480_FMwebp_QL65_.jpg", 
     "price": "45$"
     },
     
     {
-    "name": "Handbags"
+    "name": "Handbags",
     "image": "https://m.media-amazon.com/images/I/71O0NcZVm7L._AC_UL480_FMwebp_QL65_.jpg", 
     "price": "150$"
     },
     
     {
-    "name": "Bags"
+    "name": "Bags",
     "image": "https://m.media-amazon.com/images/I/A1vejGzI8WL._AC_UL480_FMwebp_QL65_.jpg", 
     "price": "15$"
     },
     
     {
-    "name": "Bags"
+    "name": "Bags",
     "image": "https://m.media-amazon.com/images/I/71rLnU+hnOL._AC_UL480_FMwebp_QL65_.jpg",
     "price": "20$"
     },
     
     {
-    "name": "Handbags"
+    "name": "Handbags",
     "image": "https://m.media-amazon.com/images/I/613xzOBxCIL._AC_UL480_FMwebp_QL65_.jpg", 
     "price": "111$"
     },
     
     {
-    "name": "Bags"
+    "name": "Bags",
     "image": "https://m.media-amazon.com/images/I/61ZC0xwO-CL._AC_UL480_FMwebp_QL65_.jpg", 
     "price": "14$"
     },
     
     {
-    "name": "Bags"
+    "name": "Bags",
     "image": "https://m.media-amazon.com/images/I/7190ntmb4sL._AC_UL480_FMwebp_QL65_.jpg", 
     "price": "65$"
     },
     
     {
-    "name": "Bags"
+    "name": "Bags",
     "image": "https://m.media-amazon.com/images/I/61c56uLA8VL._AC_UL480_FMwebp_QL65_.jpg", 
     "price": "100$" 
     }
