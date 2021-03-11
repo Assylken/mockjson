@@ -16,7 +16,7 @@
       "description": "this is description 3"
     }
   ],
-  "staff": [
+  "accessories": [
     {
       "id": 1,
       "body": "comment 1",
@@ -28,7 +28,36 @@
       "postId": 1
     }
   ],
-  "profile": {
+  
+  ],
+  "perfume": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "bags": [
+    {
     "name": "Profile 1"
-  }
+    }
+  ]
+ ],
+  "other staff": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ]
 }
