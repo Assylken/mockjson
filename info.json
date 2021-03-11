@@ -1,28 +1,28 @@
 {
   "users": [
    {
-     "id": 1
+     "id": 1,
      "uname": "Dokinski",
      "uemail": "adok@gmail.com",
      "upass": "examplePass12"
     },
     
     {
-     "id": 2
+     "id": 2,
      "uname": "Asik",
      "uemail": "asik@gmail.com",
      "upass": "examplePass123"
     },
     
     {
-     "id": 3
+     "id": 3,
      "uname": "Asyk",
      "uemail": "asyk@mail.ru",
      "upass": "examplePass1234"
     },
     
     {
-     "id": 4
+     "id": 4,
      "uname": "Ris",
      "uemail": "ris@mail.ru",
      "upass": "examplePass12345"
