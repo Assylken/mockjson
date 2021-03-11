@@ -273,7 +273,145 @@
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N1FiR9TSL._SL1000_.jpg"
     }
   ],
+  
+  "bags": [
+    {
+    "name": "Handbags",
+    "image": "https://m.media-amazon.com/images/I/91v7JXEWUhL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "50$"
+    },
+    
+    {
+    "name": "Handbags",
+    "image": "https://m.media-amazon.com/images/I/610dEHguF3L._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "100$"
+    },
+    
+    {
+    "name": "Handbags",
+    "image": "https://m.media-amazon.com/images/I/61EW4qTZoGL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "45$"
+    },
+    
+    {
+    "name": "Handbags",
+    "image": "https://m.media-amazon.com/images/I/71O0NcZVm7L._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "150$"
+    },
+    
+    {
+    "name": "Bags",
+    "image": "https://m.media-amazon.com/images/I/A1vejGzI8WL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "15$"
+    },
+    
+    {
+    "name": "Bags",
+    "image": "https://m.media-amazon.com/images/I/71rLnU+hnOL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "20$"
+    },
+    
+    {
+    "name": "Handbags",
+    "image": "https://m.media-amazon.com/images/I/613xzOBxCIL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "111$"
+    },
+    
+    {
+    "name": "Bags",
+    "image": "https://m.media-amazon.com/images/I/61ZC0xwO-CL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "14$"
+    },
+    
+    {
+    "name": "Bags",
+    "image": "https://m.media-amazon.com/images/I/7190ntmb4sL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "65$"
+    },
+    
+    {
+    "name": "Bags",
+    "image": "https://m.media-amazon.com/images/I/61c56uLA8VL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "100$" 
+    }
+ ],
 
+
+
+
+  "other staff": [
+    {
+      "id": 1,
+      "name": "Hunger",
+      "image": "https://m.media-amazon.com/images/I/8168jGqUT3L._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "5$"
+    },
+    
+    
+    {
+      "id": 2,
+      "name": "Hunger",
+      "image": "https://m.media-amazon.com/images/I/91+AbfKHbVL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "10$"
+    },
+    
+    {
+      "id": 3,
+      "name": "Hunger",
+      "image": "https://m.media-amazon.com/images/I/711EH-bt2ML._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "7.5$"
+    },
+    
+    {
+      "id": 4,
+      "name": "Hunger",
+      "image": "https://m.media-amazon.com/images/I/71LOz3BHvqL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "10$"
+    },
+    
+    {
+      "id": 5,
+      "name": "Wardrobe",
+      "image": "https://m.media-amazon.com/images/I/71p27ZQlpZL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "100$"
+    },
+    
+    {
+      "id": 6,
+      "name": "Wardrobe",
+      "image": "https://m.media-amazon.com/images/I/81vTs2hm3IL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "200$"
+    },
+    
+    {
+      "id": 7,
+      "name": "Wardrobe",
+      "image": "https://m.media-amazon.com/images/I/8117x0THsnL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "95$"
+    },
+    
+    {
+      "id": 8,
+      "name": "Wardrobe",
+      "image": "https://m.media-amazon.com/images/I/71WnD56HhtL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "120$"
+    },
+    
+    {
+      "id": 9,
+      "name": "Wardrobe",
+      "image": "https://m.media-amazon.com/images/I/71SvvyLtMPL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "55$"
+    },
+    
+    {
+      "id": 10,
+      "name": "Wardrobe",
+      "image": "https://m.media-amazon.com/images/I/71PSxqtrrUL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "70$"
+    }
+    
+    ],
   "users": [
    {
      "id": 1,
