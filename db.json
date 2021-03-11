@@ -1,63 +1,423 @@
 {
+  
   "clothes": [
     {
       "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+      "title": "T-shirt",
+      "color": "black",
+      "size": "M",
+      "image": "https://images.asos-media.com/products/asos-design-oversized-baseball-t-shirt-in-black-with-back-tattoo-print/21930290-1-black?$XXL$&wid=513&fit=constrain",
+      "price": "20$",
+      "description": "ASOS DESIGN oversized baseball t-shirt in black with back tattoo print"
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
+      "title": "T-shirt",
+      "color": "white",
+      "size": "M",
+      "image": "https://images.asos-media.com/products/asos-design-regular-fit-viscose-shirt-with-revere-collar-in-white/22326279-1-white?$XXL$&wid=513&fit=constrain",
+      "price": "21.99$",
+      "description": "ASOS DESIGN regular fit viscose shirt with revere collar in white"
     },
     {
       "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
+      "title": "T-shirt",
+      "color": "blue",
+      "size": "S",
+      "image": "https://images.asos-media.com/products/topman-stretch-skinny-shirt-in-light-blue/24114170-1-blue?$XXL$&wid=513&fit=constrain",
+      "price": "22$",
+      "description": "Topman stretch skinny shirt in light blue"
+    },
+    {
+      "id": 4,
+      "title": "T-shirt",
+      "color": "blue",
+      "size": "S",
+      "image": "https://images.asos-media.com/products/topman-long-sleeve-vintage-stripe-shirt-in-blue/24115180-1-blue?$XXL$&wid=513&fit=constrain",
+      "price": "29.99$",
+      "description": "Topman long sleeve vintage stripe shirt in blue"
+    },
+    {
+      "id": 5,
+      "title": "T-shirt",
+      "color": "Washed black",
+      "size": "M",
+      "image": "https://images.asos-media.com/products/asos-design-90s-oversized-cord-shirt-in-washed-black/23180810-1-washedblack?$XXL$&wid=513&fit=constrain",
+      "price": "25$",
+      "description": "ASOS DESIGN 90s oversized cord shirt in washed black"
+    },
+    {
+      "id": 6,
+      "title": "Jeans",
+      "color": "Dark Blue",
+      "size": "M",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616xchp1ECL._UY741_.jpg",
+      "price": "40$",
+      "description": "Ben Martin Men's Relaxed Jeans"
+    },
+    {
+      "id": 7,
+      "title": "Jeans",
+      "color": "Light grey",
+      "size": "S",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41YDj7%2BOjAL._SY445_SX342_.jpg",
+      "price": "30$",
+      "description": "Ben Martin Men's Regular Fit Jeans"
+    },
+    {
+      "id": 8,
+      "title": "Jeans",
+      "color": "Blue",
+      "size": "L",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/618r4PBS73L._UX679_.jpg",
+      "price": "25$",
+      "description": "L,Zard Men's Slim Fit Jeans"
+    },
+    {
+      "id": 9,
+      "title": "Jeans",
+      "color": "Blue",
+      "size": "M",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81ZVm7gJ8PL._UX569_.jpg",
+      "price": "34.99$",
+      "description": "Diverse Men's Chino Slim Jeans"
+    },
+     {
+      "id": 10,
+      "title": "Jeans",
+      "color": "White",
+      "size": "L",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61SCAuhMhPL._UY741_.jpg",
+      "price": "10$",
+      "description": "Men's Slim Fit Jeans"
+    },
+     {
+      "id": 11,
+      "title": "Shorts",
+      "color": "Beige",
+      "size": "S",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81%2Bs-DoQQNL._UX569_.jpg",
+      "price": "40$",
+      "description": "Diverse Men's Chino Shorts Slim Cotton"
+    },
+     {
+      "id": 12,
+      "title": "Shorts",
+      "color": "Light grey",
+      "size": "S",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Nj%2BISvKkL._UX466_.jpg",
+      "price": "14$",
+      "description": "Amazon Brand - Inkast Denim Co. Men's Regular Fit Cotton Shorts"
+    },
+     {
+      "id": 13,
+      "title": "Shorts",
+      "color": "Beige",
+      "size": "M",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714TqRYabnL._UY606_.jpg",
+      "price": "100$",
+      "description": "Forest Club Shorts for Men | Light Weight | Casual Wear | Sports Shorts | Quick-Dry Technology with Ultra Cooling Fabric | Super Breathable"
+    },
+    {
+      "id": 14,
+      "title": "Shorts",
+      "color": "Light grey",
+      "size": "L",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ldhELWDoL._UL1301_.jpg",
+      "price": "50$",
+      "description": "CBlue Men's Outdoor Quick Dry Lightweight Sports Shorts Zipper Pockets"
     }
   ],
+  
+  
+  
+  
   "accessories": [
     {
       "id": 1,
-      "body": "comment 1",
-      "postId": 1
+      "title": "glasses",
+      "price": "10$",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71fjSPVFdrL._AC_SX466_.jpg", 
+      "description": "Sunny Pro Aviator Sunglasses Colored Tinted Lens Glasses Metal UV400 Protection"
     },
     {
       "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
+      "title": "glasses",
+      "price": "15$",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61q59oGCsXL._AC_SL1500_.jpg", 
+      "description": "AOMASTE Blue Light Blocking Glasses Retro Semi Rimless UV400 Clear Lens Computer Eyewear For Men Women"
+    },
+    {
+      "id": 3,
+      "title": "glasses",
+      "price": "20$",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71IPuW2MPDL._AC_UY575_.jpg",
+      "description": "SOJOS Retro Big Round Blue Light Computer Glasses TR90 Eyewear Frame Ashley SJ9001"
+    },
+    {
+      "id": 4,
+      "title": "glasses",
+      "price": "25$",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71u1JuLQjlL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
+      "description": "SOJOS Cat Eye Blue Light Blocking Glasses Hipster Metal Frame Women Eyeglasses She Young"
+    },
+    {
+      "id": 5,
+      "title": "chains",
+      "price": "1000$",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71IVFx2Ro%2BL._AC_UX535_.jpg",
+      "description": "14K SOLID Yellow REAL Gold Shiny Diamond-Cut 6.00MM Rope Chain Necklace Pendants and Charms with Lobster-Claw Clasp (24 and 26)"
+    },
+    {
+      "id": 6,
+      "title": "chains",
+      "price": "14$",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71bzlOIyFbL._AC_UY535_.jpg",
+      "description": "HZMAN Men Women 24k Real Gold Plated Figaro Chain Stainless Steel Necklace, Wide 5mm 7mm 9mm 13mm"
+    },
+    {
+      "id": 7,
+      "title": "chains",
+      "price": "500$",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71-yxbb2SXL._AC_UY535_.jpg",
+      "description": "ChainsPro Men Chunky Miami Cuban Chain Necklace, Custom Available, 6/9/14mm Width, 18/20/22/24/26/28/30inch Length, Gold Plated/Stainless Steel/Black-with Gift Box"
+    },
+    {
+      "id": 8,
+      "title": "chains",
+      "price": "13.89$",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61piofCqlbL._AC_UY535_.jpg",
+      "description": "ChainsPro Men Chunky Miami Cuban Chain Necklace, Custom Available, 6/9/14mm Width, 18/20/22/24/26/28/30inch Length, Gold Plated/Stainless Steel/Black-with Gift Box"
+    },
+    {
+      "id": 9,
+      "title": "Bow Tie",
+      "price": "7.89$",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71JwUFwx2eL._AC_UX679_.jpg",
+      "description": "Consumable Depot Adult Bow Tie | Men's and Women's Adjustable Bow Tie | Accessories for Men and Women"
+    },
+    {
+      "id": 10,
+      "title": "Belt",
+      "price": "15$",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81nbHFs0WaL._AC_UX466_.jpg",
+      "description": "Columbia Men's Trinity Logo Belt-Casual Dress with Single Prong Buckle for Jeans Khakis"
+    },
   ],
   
   ],
   "perfume": [
     {
       "id": 1,
-      "body": "comment 1",
-      "postId": 1
+      "type": "men", 
+      "price": "50$", 
+      "image": "https://m.media-amazon.com/images/I/81koT1MTLQL._AC_UL480_FMwebp_QL65_.jpg"
     },
+
     {
       "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
+      "type": "men", 
+      "price": "36$", 
+      "image": "https://m.media-amazon.com/images/I/51tmxGEf+hL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+
+    {
+      "id": 3,
+      "type": "men", 
+      "price": "1000$", 
+      "image": "https://m.media-amazon.com/images/I/61MxqELzVtL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+
+    {
+      "id": 4,
+      "type": "men", 
+      "price": "155$", 
+      "image": "https://m.media-amazon.com/images/I/51eN8E+db0L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+
+    {
+      "id": 5,
+      "type": "men", 
+      "price": "200$", 
+      "image": "https://m.media-amazon.com/images/I/41q6exSRMiL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+
+    {
+      "id": 6,
+      "type": "women", 
+      "price": "30$", 
+      "image": "https://images-na.ssl-images-amazon.com/images/I/518ONQ2J2eL._SL1000_.jpg"
+    },
+
+    {
+      "id": 7,
+      "type": "women", 
+      "price": "50$", 
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71yWj-qTaXL._SX466_.jpg"
+    },
+
+    {
+      "id": 8,
+      "type": "women", 
+      "price": "40$", 
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51KlBikxMWL._SX466_.jpg"
+    },
+
+    {
+      "id": 9,
+      "type": "women", 
+      "price": "100$", 
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31R6OgwnExL._SX324_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 10,
+      "type": "women", 
+      "price": "45$", 
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N1FiR9TSL._SL1000_.jpg"
+    },
   ],
+
+
+
+
+
+
   "bags": [
     {
-    "name": "Profile 1"
+    "name": "Handbags"
+    "image": "https://m.media-amazon.com/images/I/91v7JXEWUhL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "50$"
+    },
+    
+    {
+    "name": "Handbags"
+    "image": "https://m.media-amazon.com/images/I/610dEHguF3L._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "100$"
+    },
+    
+    {
+    "name": "Handbags"
+    "image": "https://m.media-amazon.com/images/I/61EW4qTZoGL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "45$"
+    },
+    
+    {
+    "name": "Handbags"
+    "image": "https://m.media-amazon.com/images/I/71O0NcZVm7L._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "150$"
+    },
+    
+    {
+    "name": "Bags"
+    "image": "https://m.media-amazon.com/images/I/A1vejGzI8WL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "15$"
+    },
+    
+    {
+    "name": "Bags"
+    "image": "https://m.media-amazon.com/images/I/71rLnU+hnOL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "20$"
+    },
+    
+    {
+    "name": "Handbags"
+    "image": "https://m.media-amazon.com/images/I/613xzOBxCIL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "111$"
+    },
+    
+    {
+    "name": "Bags"
+    "image": "https://m.media-amazon.com/images/I/61ZC0xwO-CL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "14$"
+    },
+    
+    {
+    "name": "Bags"
+    "image": "https://m.media-amazon.com/images/I/7190ntmb4sL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "65$"
+    },
+    
+    {
+    "name": "Bags"
+    "image": "https://m.media-amazon.com/images/I/61c56uLA8VL._AC_UL480_FMwebp_QL65_.jpg", 
+    "price": "100$" 
     }
-  ]
  ],
+
+
+
+
   "other staff": [
     {
       "id": 1,
-      "body": "comment 1",
-      "postId": 1
+      "name": "Hunger",
+      "image": "https://m.media-amazon.com/images/I/8168jGqUT3L._AC_UL480_FMwebp_QL65_.jpg".
+      "price": "5$"
     },
+    
+    
     {
       "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
+      "name": "Hunger",
+      "image": "https://m.media-amazon.com/images/I/91+AbfKHbVL._AC_UL480_FMwebp_QL65_.jpg".
+      "price": "10$"
+    },
+    
+    {
+      "id": 3,
+      "name": "Hunger",
+      "image": "https://m.media-amazon.com/images/I/711EH-bt2ML._AC_UL480_FMwebp_QL65_.jpg".
+      "price": "7.5$"
+    },
+    
+    {
+      "id": 4,
+      "name": "Hunger",
+      "image": "https://m.media-amazon.com/images/I/71LOz3BHvqL._AC_UL480_FMwebp_QL65_.jpg".
+      "price": "10$"
+    },
+    
+    {
+      "id": 5,
+      "name": "Wardrobe",
+      "image": "https://m.media-amazon.com/images/I/71p27ZQlpZL._AC_UL480_FMwebp_QL65_.jpg".
+      "price": "100$"
+    },
+    
+    {
+      "id": 6,
+      "name": "Wardrobe",
+      "image": "https://m.media-amazon.com/images/I/81vTs2hm3IL._AC_UL480_FMwebp_QL65_.jpg".
+      "price": "200$"
+    },
+    
+    {
+      "id": 7,
+      "name": "Wardrobe",
+      "image": "https://m.media-amazon.com/images/I/8117x0THsnL._AC_UL480_FMwebp_QL65_.jpg".
+      "price": "95$"
+    },
+    
+    {
+      "id": 8,
+      "name": "Wardrobe",
+      "image": "https://m.media-amazon.com/images/I/71WnD56HhtL._AC_UL480_FMwebp_QL65_.jpg".
+      "price": "120$"
+    },
+    
+    {
+      "id": 9,
+      "name": "Wardrobe",
+      "image": "https://m.media-amazon.com/images/I/71SvvyLtMPL._AC_UL480_FMwebp_QL65_.jpg".
+      "price": "55$"
+    },
+    
+    {
+      "id": 10,
+      "name": ,
+      "image": "https://m.media-amazon.com/images/I/71PSxqtrrUL._AC_UL480_FMwebp_QL65_.jpg".
+      "price": "70$"
+    },
+    
   ]
 }
