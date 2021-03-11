@@ -127,5 +127,34 @@
       "price": 50,
       "description": "CBlue Men's Outdoor Quick Dry Lightweight Sports Shorts Zipper Pockets"
     }
-  ]
+  ],
+  "users": [
+   {
+     "id": 1,
+     "uname": "Dokinski",
+     "uemail": "adok@gmail.com",
+     "upass": "examplePass12"
+    },
+    
+    {
+     "id": 2,
+     "uname": "Asik",
+     "uemail": "asik@gmail.com",
+     "upass": "examplePass123"
+    },
+    
+    {
+     "id": 3,
+     "uname": "Assylken",
+     "uemail": "asyl@mail.ru",
+     "upass": "examplePass1234"
+    },
+    
+    {
+     "id": 4,
+     "uname": "Ris",
+     "uemail": "ris@mail.ru",
+     "upass": "examplePass12345"
+    }
+    ]
 }
