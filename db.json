@@ -7,7 +7,7 @@
       "color": "black",
       "size": "M",
       "image": "https://images.asos-media.com/products/asos-design-oversized-baseball-t-shirt-in-black-with-back-tattoo-print/21930290-1-black?$XXL$&wid=513&fit=constrain",
-      "price": "20$",
+      "price": 20,
       "description": "ASOS DESIGN oversized baseball t-shirt in black with back tattoo print"
     },
     {
@@ -16,7 +16,7 @@
       "color": "white",
       "size": "M",
       "image": "https://images.asos-media.com/products/asos-design-regular-fit-viscose-shirt-with-revere-collar-in-white/22326279-1-white?$XXL$&wid=513&fit=constrain",
-      "price": "21.99$",
+      "price": 21.99",
       "description": "ASOS DESIGN regular fit viscose shirt with revere collar in white"
     },
     {
@@ -25,7 +25,7 @@
       "color": "blue",
       "size": "S",
       "image": "https://images.asos-media.com/products/topman-stretch-skinny-shirt-in-light-blue/24114170-1-blue?$XXL$&wid=513&fit=constrain",
-      "price": "22$",
+      "price": 22",
       "description": "Topman stretch skinny shirt in light blue"
     },
     {
@@ -34,7 +34,7 @@
       "color": "blue",
       "size": "S",
       "image": "https://images.asos-media.com/products/topman-long-sleeve-vintage-stripe-shirt-in-blue/24115180-1-blue?$XXL$&wid=513&fit=constrain",
-      "price": "29.99$",
+      "price": 29.99",
       "description": "Topman long sleeve vintage stripe shirt in blue"
     },
     {
@@ -43,7 +43,7 @@
       "color": "Washed black",
       "size": "M",
       "image": "https://images.asos-media.com/products/asos-design-90s-oversized-cord-shirt-in-washed-black/23180810-1-washedblack?$XXL$&wid=513&fit=constrain",
-      "price": "25$",
+      "price": 25,
       "description": "ASOS DESIGN 90s oversized cord shirt in washed black"
     },
     {
@@ -52,7 +52,7 @@
       "color": "Dark Blue",
       "size": "M",
       "image": "https://images-na.ssl-images-amazon.com/images/I/616xchp1ECL._UY741_.jpg",
-      "price": "40$",
+      "price": 40,
       "description": "Ben Martin Men's Relaxed Jeans"
     },
     {
@@ -61,7 +61,7 @@
       "color": "Light grey",
       "size": "S",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41YDj7%2BOjAL._SY445_SX342_.jpg",
-      "price": "30$",
+      "price": 30,
       "description": "Ben Martin Men's Regular Fit Jeans"
     },
     {
@@ -70,7 +70,7 @@
       "color": "Blue",
       "size": "L",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618r4PBS73L._UX679_.jpg",
-      "price": "25$",
+      "price": 25,
       "description": "L,Zard Men's Slim Fit Jeans"
     },
     {
@@ -79,7 +79,7 @@
       "color": "Blue",
       "size": "M",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81ZVm7gJ8PL._UX569_.jpg",
-      "price": "34.99$",
+      "price": 34.99,
       "description": "Diverse Men's Chino Slim Jeans"
     },
      {
@@ -88,7 +88,7 @@
       "color": "White",
       "size": "L",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61SCAuhMhPL._UY741_.jpg",
-      "price": "10$",
+      "price": 10,
       "description": "Men's Slim Fit Jeans"
     },
      {
@@ -97,7 +97,7 @@
       "color": "Beige",
       "size": "S",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81%2Bs-DoQQNL._UX569_.jpg",
-      "price": "40$",
+      "price": 40,
       "description": "Diverse Men's Chino Shorts Slim Cotton"
     },
      {
@@ -106,7 +106,7 @@
       "color": "Light grey",
       "size": "S",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Nj%2BISvKkL._UX466_.jpg",
-      "price": "14$",
+      "price": 14,
       "description": "Amazon Brand - Inkast Denim Co. Men's Regular Fit Cotton Shorts"
     },
      {
@@ -115,7 +115,7 @@
       "color": "Beige",
       "size": "M",
       "image": "https://images-na.ssl-images-amazon.com/images/I/714TqRYabnL._UY606_.jpg",
-      "price": "100$",
+      "price": 100,
       "description": "Forest Club Shorts for Men | Light Weight | Casual Wear | Sports Shorts | Quick-Dry Technology with Ultra Cooling Fabric | Super Breathable"
     },
     {
@@ -124,7 +124,7 @@
       "color": "Light grey",
       "size": "L",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ldhELWDoL._UL1301_.jpg",
-      "price": "50$",
+      "price": 50,
       "description": "CBlue Men's Outdoor Quick Dry Lightweight Sports Shorts Zipper Pockets"
     }
   ],
