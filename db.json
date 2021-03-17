@@ -1,307 +1,62 @@
 {
-  
-  "clothes": [
-    {
-      "id": 1,
-      "title": "T-shirt",
-      "color": "black",
-      "size": "M",
-      "image": "https://images.asos-media.com/products/asos-design-oversized-baseball-t-shirt-in-black-with-back-tattoo-print/21930290-1-black?$XXL$&wid=513&fit=constrain",
-      "price": 20,
-      "description": "ASOS DESIGN oversized baseball t-shirt in black with back tattoo print"
-    },
-    {
-      "id": 2,
-      "title": "T-shirt",
-      "color": "white",
-      "size": "M",
-      "image": "https://images.asos-media.com/products/asos-design-regular-fit-viscose-shirt-with-revere-collar-in-white/22326279-1-white?$XXL$&wid=513&fit=constrain",
-      "price": 21.99,
-      "description": "ASOS DESIGN regular fit viscose shirt with revere collar in white"
-    },
-    {
-      "id": 3,
-      "title": "T-shirt",
-      "color": "blue",
-      "size": "S",
-      "image": "https://images.asos-media.com/products/topman-stretch-skinny-shirt-in-light-blue/24114170-1-blue?$XXL$&wid=513&fit=constrain",
-      "price": 22,
-      "description": "Topman stretch skinny shirt in light blue"
-    },
-    {
-      "id": 4,
-      "title": "T-shirt",
-      "color": "blue",
-      "size": "S",
-      "image": "https://images.asos-media.com/products/topman-long-sleeve-vintage-stripe-shirt-in-blue/24115180-1-blue?$XXL$&wid=513&fit=constrain",
-      "price": 29.99,
-      "description": "Topman long sleeve vintage stripe shirt in blue"
-    },
-    {
-      "id": 5,
-      "title": "T-shirt",
-      "color": "Washed black",
-      "size": "M",
-      "image": "https://images.asos-media.com/products/asos-design-90s-oversized-cord-shirt-in-washed-black/23180810-1-washedblack?$XXL$&wid=513&fit=constrain",
-      "price": 25,
-      "description": "ASOS DESIGN 90s oversized cord shirt in washed black"
-    },
-    {
-      "id": 6,
-      "title": "Jeans",
-      "color": "Dark Blue",
-      "size": "M",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616xchp1ECL._UY741_.jpg",
-      "price": 40,
-      "description": "Ben Martin Men's Relaxed Jeans"
-    },
-    {
-      "id": 7,
-      "title": "Jeans",
-      "color": "Light grey",
-      "size": "S",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41YDj7%2BOjAL._SY445_SX342_.jpg",
-      "price": 30,
-      "description": "Ben Martin Men's Regular Fit Jeans"
-    },
-    {
-      "id": 8,
-      "title": "Jeans",
-      "color": "Blue",
-      "size": "L",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/618r4PBS73L._UX679_.jpg",
-      "price": 25,
-      "description": "L,Zard Men's Slim Fit Jeans"
-    },
-    {
-      "id": 9,
-      "title": "Jeans",
-      "color": "Blue",
-      "size": "M",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81ZVm7gJ8PL._UX569_.jpg",
-      "price": 34.99,
-      "description": "Diverse Men's Chino Slim Jeans"
-    },
-     {
-      "id": 10,
-      "title": "Jeans",
-      "color": "White",
-      "size": "L",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61SCAuhMhPL._UY741_.jpg",
-      "price": 10,
-      "description": "Men's Slim Fit Jeans"
-    },
-     {
-      "id": 11,
-      "title": "Shorts",
-      "color": "Beige",
-      "size": "S",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81%2Bs-DoQQNL._UX569_.jpg",
-      "price": 40,
-      "description": "Diverse Men's Chino Shorts Slim Cotton"
-    },
-     {
-      "id": 12,
-      "title": "Shorts",
-      "color": "Light grey",
-      "size": "S",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Nj%2BISvKkL._UX466_.jpg",
-      "price": 14,
-      "description": "Amazon Brand - Inkast Denim Co. Men's Regular Fit Cotton Shorts"
-    },
-     {
-      "id": 13,
-      "title": "Shorts",
-      "color": "Beige",
-      "size": "M",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/714TqRYabnL._UY606_.jpg",
-      "price": 100,
-      "description": "Forest Club Shorts for Men | Light Weight | Casual Wear | Sports Shorts | Quick-Dry Technology with Ultra Cooling Fabric | Super Breathable"
-    },
-    {
-      "id": 14,
-      "title": "Shorts",
-      "color": "Light grey",
-      "size": "L",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ldhELWDoL._UL1301_.jpg",
-      "price": 50,
-      "description": "CBlue Men's Outdoor Quick Dry Lightweight Sports Shorts Zipper Pockets"
-    }
-  ],
-  
-  "accessories": [
-    {
-      "id": 1,
-      "title": "glasses",
-      "price": 10,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71fjSPVFdrL._AC_SX466_.jpg", 
-      "description": "Sunny Pro Aviator Sunglasses Colored Tinted Lens Glasses Metal UV400 Protection"
-    },
-    {
-      "id": 2,
-      "title": "glasses",
-      "price": 15,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61q59oGCsXL._AC_SL1500_.jpg", 
-      "description": "AOMASTE Blue Light Blocking Glasses Retro Semi Rimless UV400 Clear Lens Computer Eyewear For Men Women"
-    },
-    {
-      "id": 3,
-      "title": "glasses",
-      "price": 20,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71IPuW2MPDL._AC_UY575_.jpg",
-      "description": "SOJOS Retro Big Round Blue Light Computer Glasses TR90 Eyewear Frame Ashley SJ9001"
-    },
-    {
-      "id": 4,
-      "title": "glasses",
-      "price": 25,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71u1JuLQjlL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
-      "description": "SOJOS Cat Eye Blue Light Blocking Glasses Hipster Metal Frame Women Eyeglasses She Young"
-    },
-    {
-      "id": 5,
-      "title": "chains",
-      "price": 1000,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71IVFx2Ro%2BL._AC_UX535_.jpg",
-      "description": "14K SOLID Yellow REAL Gold Shiny Diamond-Cut 6.00MM Rope Chain Necklace Pendants and Charms with Lobster-Claw Clasp (24 and 26)"
-    },
-    {
-      "id": 6,
-      "title": "chains",
-      "price": 14,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71bzlOIyFbL._AC_UY535_.jpg",
-      "description": "HZMAN Men Women 24k Real Gold Plated Figaro Chain Stainless Steel Necklace, Wide 5mm 7mm 9mm 13mm"
-    },
-    {
-      "id": 7,
-      "title": "chains",
-      "price": 500,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71-yxbb2SXL._AC_UY535_.jpg",
-      "description": "ChainsPro Men Chunky Miami Cuban Chain Necklace, Custom Available, 6/9/14mm Width, 18/20/22/24/26/28/30inch Length, Gold Plated/Stainless Steel/Black-with Gift Box"
-    },
-    {
-      "id": 8,
-      "title": "chains",
-      "price": 13.89,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61piofCqlbL._AC_UY535_.jpg",
-      "description": "ChainsPro Men Chunky Miami Cuban Chain Necklace, Custom Available, 6/9/14mm Width, 18/20/22/24/26/28/30inch Length, Gold Plated/Stainless Steel/Black-with Gift Box"
-    },
-    {
-      "id": 9,
-      "title": "Bow Tie",
-      "price": 7.89,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71JwUFwx2eL._AC_UX679_.jpg",
-      "description": "Consumable Depot Adult Bow Tie | Men's and Women's Adjustable Bow Tie | Accessories for Men and Women"
-    },
-    {
-      "id": 10,
-      "title": "Belt",
-      "price": 15,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81nbHFs0WaL._AC_UX466_.jpg",
-      "description": "Columbia Men's Trinity Logo Belt-Casual Dress with Single Prong Buckle for Jeans Khakis"
-    }
-  ],
-
-
-  "perfume": [
-    {
-      "id": 1,
-      "type": "men", 
-      "price": 50, 
-      "image": "https://m.media-amazon.com/images/I/81koT1MTLQL._AC_UL480_FMwebp_QL65_.jpg"
-    },
-
-    {
-      "id": 2,
-      "type": "men", 
-      "price": 36, 
-      "image": "https://m.media-amazon.com/images/I/51tmxGEf+hL._AC_UL480_FMwebp_QL65_.jpg"
-    },
-
-    {
-      "id": 3,
-      "type": "men", 
-      "price": 1000, 
-      "image": "https://m.media-amazon.com/images/I/61MxqELzVtL._AC_UL480_FMwebp_QL65_.jpg"
-    },
-
-    {
-      "id": 4,
-      "type": "men", 
-      "price": 155, 
-      "image": "https://m.media-amazon.com/images/I/51eN8E+db0L._AC_UL480_FMwebp_QL65_.jpg"
-    },
-
-    {
-      "id": 5,
-      "type": "men", 
-      "price": 200, 
-      "image": "https://m.media-amazon.com/images/I/41q6exSRMiL._AC_UL480_FMwebp_QL65_.jpg"
-    },
-
-    {
-      "id": 6,
-      "type": "women", 
-      "price": 30, 
-      "image": "https://images-na.ssl-images-amazon.com/images/I/518ONQ2J2eL._SL1000_.jpg"
-    },
-
-    {
-      "id": 7,
-      "type": "women", 
-      "price": 50, 
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71yWj-qTaXL._SX466_.jpg"
-    },
-
-    {
-      "id": 8,
-      "type": "women", 
-      "price": 40, 
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51KlBikxMWL._SX466_.jpg"
-    },
-
-    {
-      "id": 9,
-      "type": "women", 
-      "price": 100, 
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31R6OgwnExL._SX324_BO1,204,203,200_.jpg"
-    },
-    {
-      "id": 10,
-      "type": "women", 
-      "price": 45, 
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61N1FiR9TSL._SL1000_.jpg"
-    }
-  ],
-
-  
-  "users": [
-   {
-     "id": 1,
-     "uname": "Dokinski",
-     "uemail": "adok@gmail.com",
-     "upass": "examplePass12"
-    },
-    
-    {
-     "id": 2,
-     "uname": "Asik",
-     "uemail": "asik@gmail.com",
-     "upass": "examplePass123"
-    },
-    
-    {
-     "id": 3,
-     "uname": "Assylken",
-     "uemail": "asyl@mail.ru",
-     "upass": "examplePass1234"
-    },
-    
-    {
-     "id": 4,
-     "uname": "Ris",
-     "uemail": "ris@mail.ru",
-     "upass": "examplePass12345"
-    }
+    "users": [
+        {
+            "id":"1",
+            "firstName": "Assylken",
+            "lastName": "Taukenov",
+            "email": "asylken02@gmail.com",
+            "age": 34,
+            "companyId": "1"
+        },
+        {
+            "id":"2",
+            "firstName": "Assylken",
+            "lastName": "Taukenov",
+            "email": "asylken02@gmail.com",
+            "age": 34,
+            "companyId": "1"
+        }
+    ],
+    "Gyms": [
+        {
+            "id": 1,
+            "name": "Astana Fitness",
+            "address": "Astana, 4/1 Musrepov str., Aitolkyn TD 2nd floor (from the main entrance)",
+            "phone": "+7 (707) 177-73-27",
+            "info": "We work from 10.00 to 23.00\nDaily. Seven days a week\nUnlimited monthly subscription - 15,000 tenge, Day subscription for a month - 7,000 tenge.Unlimited subscription for 3 months - 25,000 tenge.When buying a subscription as a gift - introductory instruction, nutrition and training program",
+            "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20018.016933402487!2d71.43888182965564!3d51.159141252227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc3172ee12b0ba644!2sFitnessBlitz_Astana!5e0!3m2!1skk!2skz!4v1615919798899!5m2!1skk!2skz"
+        },
+        {
+            "id": 2,
+            "name": "Underground Gym",
+            "address": "Astana, st. Mustafina 3",
+            "phone": "+7 (701) 035-30-03",
+            "info": "from 5000 tg. per month\nMon-Sat: 10-20:00\nSun: 10:00-16:00",
+            "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2502.252044681798!2d71.45420271572412!3d51.159142579579445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4245813916477f0b%3A0xe97a2f5060e3ca70!2sUnderground%20Gym!5e0!3m2!1skk!2skz!4v1615919688917!5m2!1skk!2skz"
+        },
+        {
+            "id": 3,
+            "name": "Iron Paradise",
+            "address": "st. Kenesary 8, Nur-Sultan 020000",
+            "phone": "8 (776) 409 6868",
+            "info": "One visit - 2.500 tenge\n1 month before 17:00 - 10.000 tenge\n12 lessons per month - 15.000 tenge\n1 month unlimited - 18,000 tenge\n3 months unlimited - 45.000 tenge\n12 months unlimited - 148.000 tenge",
+            "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2502.067575360889!2d71.40492811572423!3d51.16254357957996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4245872658fb4f23%3A0x4144a20718058d70!2z0KLRgNC10L3QsNC20LXRgNC90YvQuSDQt9Cw0LsgSVBneW0gKElyb24gUGFyYWRpc2Up!5e0!3m2!1skk!2skz!4v1615920118079!5m2!1skk!2skz"
+        },
+        {
+            "id": 4,
+            "name": "Gym XXL",
+            "address": "Moskow, 18 ground floor",
+            "phone": "+7‒777‒521‒83‒92",
+            "info": "The XXL gym (the organization's rating on the Zoon is 5) will help you stay in shape. Here we have selected various training programs and useful procedures for maintaining vigor and good mood.There are many sports programs that allow you to be in good shape. It is for you that the most popular ones have been collected in the XXL gym, and they offer to sign up for classes in the gym.The gym is located at Astana, Maskeu, 18. Doors are open daily: 09:00 - 23:00.",
+            "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10004.389471593046!2d71.4008978!3d51.1804283!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6bf559eaa76be5d7!2z0KLRgNC10L3QsNC20LXRgNC90YvQuSDQl9Cw0LsgWFhM!5e0!3m2!1sru!2skz!4v1615920300434!5m2!1sru!2skz"
+        },
+        {
+            "id": 5,
+            "name": "Gym BIZON",
+            "address": "st. Mustafina 21/2",
+            "phone": "8 (707) 841 4403",
+            "info": "Opening Hours - Mon - Sun: 10:00 - 23:00\nSeven days a week",
+            "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10009.600902215565!2d71.5092361!3d51.1564105!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe29c2b4775ea4c7c!2z0KLRgNC10L3QsNC20LXRgNC90YvQuSDQt9Cw0LsgIkJJWk9OIg!5e0!3m2!1sru!2skz!4v1615920504384!5m2!1sru!2skz"
+        }
     ]
 }
