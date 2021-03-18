@@ -108,49 +108,49 @@
           "id": 1,
           "name": "Weighted jump rope",
           "image": "https://images-na.ssl-images-amazon.com/images/I/71ruEEIWkQL._AC_SX425_.jpg",
-          "cost": 5,
+          "cost": 5
         },
         
         {
           "id": 2,
           "name": "Weighted arm bands",
           "image": "https://www.toneybands.com/wp-content/uploads/2016/08/toneybands-action-black.jpg",
-          "cost": 4,
+          "cost": 4
         },
         
         {
           "id": 3,
           "name": "Resistance bands",
           "image": "https://www.tunturi.org/website/Accessoires/14TUSYO016_10.jpg",
-          "cost": 9,
+          "cost": 9
         },
         
         {
           "id": 4,
           "name": "Dumbbells",
           "image": "https://www.repfitness.com/media/catalog/product/cache/6031cf661625f6f6abd8f87ef140b802/a/d/adj-db-collar-off.jpg",
-          "cost": 20,
+          "cost": 20
         },
         
         {
           "id": 5,
           "name": "Kettlebell",
           "image": "https://cdn.webshopapp.com/shops/281654/files/289053960/competition-kettlebell.jpg",
-          "cost": 6,
+          "cost": 6
         },
         
         {
           "id": 6,
           "name": "Balance ball",
           "image": "https://www.fitnessavenue.ca/images/default/thumbnails/bfda35ca3cae90b5_large.png",
-          "cost": 14,
+          "cost": 14
         },
         
         {
           "id": 7,
           "name": "TRX bands",
           "image": "https://nwscdn.com/media/catalog/product/cache/all/thumbnail/800x/9df78eab33525d08d6e5fb8d27136e95/t/r/trx-suspension-straps.jpg",
-          "cost": 15,
+          "cost": 15
         }   
     ]
 }
